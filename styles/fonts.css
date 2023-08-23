@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'display';
+    src: url(../fonts/PlayfairDisplay-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
